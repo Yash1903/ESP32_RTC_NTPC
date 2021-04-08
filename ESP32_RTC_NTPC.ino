@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
 // WiFi details
-char ssid[]   = "LIMELIGHT LAB";
-const char *password = "TATA@123";
+char ssid[]   = "xxxxxxx";            // Put Your SSID
+const char *password = "xxxxxxxx";    // Put Your Password
 //////
 int period = 1000;
 unsigned long time_now = 0;
